@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "Danske_Sorting_Application.Controllers.NumberOrderController",
+    "Method": "List",
+    "RelativePath": "api/NumberOrder",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Lakss.Application.SalesOrders.GetOrderNumbersCommand",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Danske_Sorting_Application.Controllers.NumberOrderController",
+    "Method": "Save",
+    "RelativePath": "api/NumberOrder",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "numbers",
+        "Type": "System.Collections.Generic.List\u00601[[System.Object, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

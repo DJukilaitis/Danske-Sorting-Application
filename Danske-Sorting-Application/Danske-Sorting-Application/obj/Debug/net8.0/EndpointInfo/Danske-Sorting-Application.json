@@ -1,0 +1,70 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Danske-Sorting-Application",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/NumberOrder": {
+      "get": {
+        "tags": [
+          "NumberOrder"
+        ],
+        "parameters": [
+          {
+            "name": "command",
+            "in": "query",
+            "schema": {
+              "$ref": "#/components/schemas/GetOrderNumbersCommand"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "NumberOrder"
+        ],
+        "parameters": [
+          {
+            "name": "numbers",
+            "in": "query",
+            "schema": {
+              "type": "array",
+              "items": { }
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "GetOrderNumbersCommand": {
+        "type": "object",
+        "additionalProperties": false
+      }
+    },
+    "securitySchemes": {
+      "Bearer": {
+        "type": "http",
+        "scheme": "Bearer",
+        "bearerFormat": "JWT"
+      }
+    }
+  },
+  "security": [
+    {
+      "Bearer": [ ]
+    }
+  ]
+}
