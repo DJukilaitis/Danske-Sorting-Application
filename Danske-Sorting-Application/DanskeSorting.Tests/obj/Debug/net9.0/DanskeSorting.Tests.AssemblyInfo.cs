@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DanskeSorting.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c8ec8e7f5893e842d431bd9fe409f097e86ff8c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49b8c5ec26a1c83e9ded5a84c9ecc6e6c7f51555")]
 [assembly: System.Reflection.AssemblyProductAttribute("DanskeSorting.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DanskeSorting.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

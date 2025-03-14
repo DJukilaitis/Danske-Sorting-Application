@@ -1,6 +1,4 @@
-﻿using System.Diagnostics;
-
-namespace Danske_Sorting_Application.Utils
+﻿namespace Danske_Sorting_Application.Utils
 {
     public static class SortingAlgorithms
     {
@@ -96,24 +94,6 @@ namespace Danske_Sorting_Application.Utils
                 int temp = numbers[i];
                 numbers[i] = numbers[j];
                 numbers[j] = temp;
-            }
-        }
-
-        public static void CompareSortingPerformance(List<int> numbers)
-        {
-            var sortingMethods = new Dictionary<string, Func<List<int>, List<int>>>
-            {
-                { "Bubble Sort", BubbleSort },
-                { "Quick Sort", QuickSort }
-            };
-
-            foreach (var method in sortingMethods)
-            {
-                var watch = Stopwatch.StartNew();
-                var sortedNumbers = method.Value(numbers); // Execute sorting algorithm
-                watch.Stop();
-
-                Console.WriteLine($"{method.Key}: {watch.ElapsedMilliseconds} ms");
             }
         }
     }

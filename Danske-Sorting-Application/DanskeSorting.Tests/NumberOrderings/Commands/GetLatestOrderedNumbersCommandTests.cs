@@ -5,15 +5,15 @@ using Moq;
 
 namespace DanskeSorting.Tests.NumberOrderings.Commands
 {
-    public class GetOrderNumbersCommandTests
+    public class GetLatestOrderedNumbersCommandTests
     {
         private readonly Mock<INumberOrderingRepository> numberOrderingRepositoryMock;
-        private readonly GetOrderNumbersCommandHandler handler;
+        private readonly GetLatestOrderedNumbersCommandHandler handler;
 
-        public GetOrderNumbersCommandTests()
+        public GetLatestOrderedNumbersCommandTests()
         {
             numberOrderingRepositoryMock = new Mock<INumberOrderingRepository>();
-            handler = new GetOrderNumbersCommandHandler(numberOrderingRepositoryMock.Object);
+            handler = new GetLatestOrderedNumbersCommandHandler(numberOrderingRepositoryMock.Object);
         }
 
         [Fact]
@@ -24,7 +24,7 @@ namespace DanskeSorting.Tests.NumberOrderings.Commands
                 .Setup(repo => repo.GetLatestFileContentAsync(It.IsAny<CancellationToken>()))
                 .ReturnsAsync(expectedContent);
 
-            var command = new GetOrderNumbersCommand();
+            var command = new GetLatestOrderedNumbersCommand();
 
             var result = await handler.Handle(command, CancellationToken.None);
 
@@ -42,7 +42,7 @@ namespace DanskeSorting.Tests.NumberOrderings.Commands
                 .Setup(repo => repo.GetLatestFileContentAsync(It.IsAny<CancellationToken>()))
                 .ReturnsAsync((string?)null);
 
-            var command = new GetOrderNumbersCommand();
+            var command = new GetLatestOrderedNumbersCommand();
 
             await Assert.ThrowsAsync<NotFoundException>(
                 () => handler.Handle(command, CancellationToken.None)

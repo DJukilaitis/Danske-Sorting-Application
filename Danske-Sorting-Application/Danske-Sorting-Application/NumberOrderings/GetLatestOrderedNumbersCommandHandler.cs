@@ -4,18 +4,18 @@ using MediatR;
 
 namespace Danske_Sorting_Application.NumberOrderings;
 
-public record GetOrderNumbersCommand : IRequest<string>;
+public record GetLatestOrderedNumbersCommand : IRequest<string>;
 
-public class GetOrderNumbersCommandHandler : IRequestHandler<GetOrderNumbersCommand, string>
+public class GetLatestOrderedNumbersCommandHandler : IRequestHandler<GetLatestOrderedNumbersCommand, string>
 {
     private readonly INumberOrderingRepository numberOrderingRepository;
 
-    public GetOrderNumbersCommandHandler(INumberOrderingRepository numberOrderingRepository)
+    public GetLatestOrderedNumbersCommandHandler(INumberOrderingRepository numberOrderingRepository)
     {
         this.numberOrderingRepository = numberOrderingRepository;
     }
 
-    public async Task<string> Handle(GetOrderNumbersCommand request, CancellationToken cancellationToken)
+    public async Task<string> Handle(GetLatestOrderedNumbersCommand request, CancellationToken cancellationToken)
     {
         var content = await numberOrderingRepository.GetLatestFileContentAsync(cancellationToken);
 
