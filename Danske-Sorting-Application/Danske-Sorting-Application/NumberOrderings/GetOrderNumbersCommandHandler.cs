@@ -2,7 +2,7 @@
 using Danske_Sorting_Application.Interfaces;
 using MediatR;
 
-namespace Lakss.Application.SalesOrders;
+namespace Danske_Sorting_Application.NumberOrderings;
 
 public record GetOrderNumbersCommand : IRequest<string>;
 
@@ -15,13 +15,10 @@ public class GetOrderNumbersCommandHandler : IRequestHandler<GetOrderNumbersComm
         this.numberOrderingRepository = numberOrderingRepository;
     }
 
-    public async Task<string?> Handle(GetOrderNumbersCommand request, CancellationToken cancellationToken)
+    public async Task<string> Handle(GetOrderNumbersCommand request, CancellationToken cancellationToken)
     {
         var content = await numberOrderingRepository.GetLatestFileContentAsync(cancellationToken);
 
-        if (content == null)
-            throw new NotFoundException("Expected a file in storage, but none were found.");
-
-        return content;
+        return content ?? throw new NotFoundException("Expected a file in storage, but none were found.");
     }
 }

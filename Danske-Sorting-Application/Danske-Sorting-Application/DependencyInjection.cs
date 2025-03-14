@@ -2,7 +2,7 @@
 using Danske_Sorting_Application.Repositories;
 using Danske_Sorting_Application.Services;
 
-namespace Lakss.Application
+namespace Danske_Sorting_Application
 {
     public static class DependencyInjection
     {

@@ -1,20 +1,20 @@
 ﻿using Danske_Sorting_Application.Interfaces;
 using MediatR;
 
-namespace Lakss.Application.SalesOrders;
+namespace Danske_Sorting_Application.NumberOrderings;
 
-public record OrderNumbersCommand(List<int>? numbers) : IRequest<Unit>;
+public record SaveOrderNumbersCommand(List<int>? numbers) : IRequest<Unit>;
 
-public class OrderNumbersCommandHandler : IRequestHandler<OrderNumbersCommand, Unit>
+public class SaveOrderNumbersCommandHandler : IRequestHandler<SaveOrderNumbersCommand, Unit>
 {
     private readonly INumberOrderingService numberOrderingService;
 
-    public OrderNumbersCommandHandler(INumberOrderingService numberOrderingService)
+    public SaveOrderNumbersCommandHandler(INumberOrderingService numberOrderingService)
     {
         this.numberOrderingService = numberOrderingService;
     }
 
-    public async Task<Unit> Handle(OrderNumbersCommand request, CancellationToken cancellationToken)
+    public async Task<Unit> Handle(SaveOrderNumbersCommand request, CancellationToken cancellationToken)
     {
         if (request.numbers == null || request.numbers.Count == 0)
             throw new ArgumentException("Expected a list of numbers, none were submitted.");

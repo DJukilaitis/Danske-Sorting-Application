@@ -1,19 +1,19 @@
 ﻿using Danske_Sorting_Application.Interfaces;
-using Lakss.Application.SalesOrders;
+using Danske_Sorting_Application.NumberOrderings;
 using MediatR;
 using Moq;
 
-namespace Lakss.Application.UnitTests.SalesOrders.Commands
+namespace DanskeSorting.Tests.NumberOrderings.Commands
 {
     public class OrderNumbersCommandTests
     {
         private readonly Mock<INumberOrderingService> numberOrderingServiceMock;
-        private readonly OrderNumbersCommandHandler handler;
+        private readonly SaveOrderNumbersCommandHandler handler;
 
         public OrderNumbersCommandTests()
         {
             numberOrderingServiceMock = new Mock<INumberOrderingService>();
-            handler = new OrderNumbersCommandHandler(numberOrderingServiceMock.Object);
+            handler = new SaveOrderNumbersCommandHandler(numberOrderingServiceMock.Object);
         }
 
         [Fact]
@@ -21,7 +21,7 @@ namespace Lakss.Application.UnitTests.SalesOrders.Commands
         {
             // Arrange
             var numbers = new List<int> { 5, 3, 8, 1, 2 };
-            var command = new OrderNumbersCommand(numbers);
+            var command = new SaveOrderNumbersCommand(numbers);
             var cancellationToken = CancellationToken.None;
 
             // Act
@@ -37,7 +37,7 @@ namespace Lakss.Application.UnitTests.SalesOrders.Commands
         [Fact]
         public async Task Handle_NullNumbers_ShouldThrowArgumentException()
         {
-            var command = new OrderNumbersCommand(null);
+            var command = new SaveOrderNumbersCommand(null);
 
             await Assert.ThrowsAsync<ArgumentException>(
                 () => handler.Handle(command, CancellationToken.None)

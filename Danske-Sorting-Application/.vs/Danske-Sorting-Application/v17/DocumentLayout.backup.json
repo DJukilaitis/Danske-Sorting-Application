@@ -3,6 +3,46 @@
   "WorkspaceRootPath": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{790294EF-8EF3-4C21-A23A-196965D8A979}|Danske-Sorting-Application\\Danske-Sorting-Application.csproj|c:\\users\\dominykasjukilaitis\\documents\\github\\danske-sorting-application\\danske-sorting-application\\danske-sorting-application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{790294EF-8EF3-4C21-A23A-196965D8A979}|Danske-Sorting-Application\\Danske-Sorting-Application.csproj|solutionrelative:danske-sorting-application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790294EF-8EF3-4C21-A23A-196965D8A979}|Danske-Sorting-Application\\Danske-Sorting-Application.csproj|c:\\users\\dominykasjukilaitis\\documents\\github\\danske-sorting-application\\danske-sorting-application\\danske-sorting-application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{790294EF-8EF3-4C21-A23A-196965D8A979}|Danske-Sorting-Application\\Danske-Sorting-Application.csproj|solutionrelative:danske-sorting-application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85ED6702-8187-430E-A8BC-7D22559572E3}|DanskeSorting.Tests\\DanskeSorting.Tests.csproj|c:\\users\\dominykasjukilaitis\\documents\\github\\danske-sorting-application\\danske-sorting-application\\danskesorting.tests\\numberorderings\\commands\\getordernumberscommandtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85ED6702-8187-430E-A8BC-7D22559572E3}|DanskeSorting.Tests\\DanskeSorting.Tests.csproj|solutionrelative:danskesorting.tests\\numberorderings\\commands\\getordernumberscommandtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85ED6702-8187-430E-A8BC-7D22559572E3}|DanskeSorting.Tests\\DanskeSorting.Tests.csproj|c:\\users\\dominykasjukilaitis\\documents\\github\\danske-sorting-application\\danske-sorting-application\\danskesorting.tests\\numberorderings\\commands\\ordernumberscommandtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85ED6702-8187-430E-A8BC-7D22559572E3}|DanskeSorting.Tests\\DanskeSorting.Tests.csproj|solutionrelative:danskesorting.tests\\numberorderings\\commands\\ordernumberscommandtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790294EF-8EF3-4C21-A23A-196965D8A979}|Danske-Sorting-Application\\Danske-Sorting-Application.csproj|c:\\users\\dominykasjukilaitis\\documents\\github\\danske-sorting-application\\danske-sorting-application\\danske-sorting-application\\controllers\\numberordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{790294EF-8EF3-4C21-A23A-196965D8A979}|Danske-Sorting-Application\\Danske-Sorting-Application.csproj|solutionrelative:danske-sorting-application\\controllers\\numberordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790294EF-8EF3-4C21-A23A-196965D8A979}|Danske-Sorting-Application\\Danske-Sorting-Application.csproj|c:\\users\\dominykasjukilaitis\\documents\\github\\danske-sorting-application\\danske-sorting-application\\danske-sorting-application\\numberorderings\\getordernumberscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{790294EF-8EF3-4C21-A23A-196965D8A979}|Danske-Sorting-Application\\Danske-Sorting-Application.csproj|solutionrelative:danske-sorting-application\\numberorderings\\getordernumberscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790294EF-8EF3-4C21-A23A-196965D8A979}|Danske-Sorting-Application\\Danske-Sorting-Application.csproj|c:\\users\\dominykasjukilaitis\\documents\\github\\danske-sorting-application\\danske-sorting-application\\danske-sorting-application\\numberorderings\\ordernumberscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{790294EF-8EF3-4C21-A23A-196965D8A979}|Danske-Sorting-Application\\Danske-Sorting-Application.csproj|solutionrelative:danske-sorting-application\\numberorderings\\ordernumberscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85ED6702-8187-430E-A8BC-7D22559572E3}|DanskeSorting.Tests\\DanskeSorting.Tests.csproj|c:\\users\\dominykasjukilaitis\\documents\\github\\danske-sorting-application\\danske-sorting-application\\danskesorting.tests\\numberorderings\\numberorderingservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85ED6702-8187-430E-A8BC-7D22559572E3}|DanskeSorting.Tests\\DanskeSorting.Tests.csproj|solutionrelative:danskesorting.tests\\numberorderings\\numberorderingservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790294EF-8EF3-4C21-A23A-196965D8A979}|Danske-Sorting-Application\\Danske-Sorting-Application.csproj|c:\\users\\dominykasjukilaitis\\documents\\github\\danske-sorting-application\\danske-sorting-application\\danske-sorting-application\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{790294EF-8EF3-4C21-A23A-196965D8A979}|Danske-Sorting-Application\\Danske-Sorting-Application.csproj|solutionrelative:danske-sorting-application\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790294EF-8EF3-4C21-A23A-196965D8A979}|Danske-Sorting-Application\\Danske-Sorting-Application.csproj|c:\\users\\dominykasjukilaitis\\documents\\github\\danske-sorting-application\\danske-sorting-application\\danske-sorting-application\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{790294EF-8EF3-4C21-A23A-196965D8A979}|Danske-Sorting-Application\\Danske-Sorting-Application.csproj|solutionrelative:danske-sorting-application\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{790294EF-8EF3-4C21-A23A-196965D8A979}|Danske-Sorting-Application\\Danske-Sorting-Application.csproj|c:\\users\\dominykasjukilaitis\\documents\\github\\danske-sorting-application\\danske-sorting-application\\danske-sorting-application\\repositories\\numberorderingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{790294EF-8EF3-4C21-A23A-196965D8A979}|Danske-Sorting-Application\\Danske-Sorting-Application.csproj|solutionrelative:danske-sorting-application\\repositories\\numberorderingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,14 +59,6 @@
       "RelativeMoniker": "D:0:0:{83E559BB-4303-4E8A-902B-765C31EDBCDA}|Danske_Sorting_Application.Benchmarks\\Danske_Sorting_Application.Benchmarks.csproj|solutionrelative:danske_sorting_application.benchmarks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85ED6702-8187-430E-A8BC-7D22559572E3}|DanskeSorting.Tests\\DanskeSorting.Tests.csproj|c:\\users\\dominykasjukilaitis\\documents\\github\\danske-sorting-application\\danske-sorting-application\\danskesorting.tests\\numberorderings\\numberorderingservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85ED6702-8187-430E-A8BC-7D22559572E3}|DanskeSorting.Tests\\DanskeSorting.Tests.csproj|solutionrelative:danskesorting.tests\\numberorderings\\numberorderingservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85ED6702-8187-430E-A8BC-7D22559572E3}|DanskeSorting.Tests\\DanskeSorting.Tests.csproj|c:\\users\\dominykasjukilaitis\\documents\\github\\danske-sorting-application\\danske-sorting-application\\danskesorting.tests\\numberorderings\\commands\\ordernumberscommandtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85ED6702-8187-430E-A8BC-7D22559572E3}|DanskeSorting.Tests\\DanskeSorting.Tests.csproj|solutionrelative:danskesorting.tests\\numberorderings\\commands\\ordernumberscommandtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{85ED6702-8187-430E-A8BC-7D22559572E3}|DanskeSorting.Tests\\DanskeSorting.Tests.csproj|c:\\users\\dominykasjukilaitis\\documents\\github\\danske-sorting-application\\danske-sorting-application\\danskesorting.tests\\algorithms\\sortingalgorithmstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85ED6702-8187-430E-A8BC-7D22559572E3}|DanskeSorting.Tests\\DanskeSorting.Tests.csproj|solutionrelative:danskesorting.tests\\algorithms\\sortingalgorithmstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,44 +67,12 @@
       "RelativeMoniker": "D:0:0:{790294EF-8EF3-4C21-A23A-196965D8A979}|Danske-Sorting-Application\\Danske-Sorting-Application.csproj|solutionrelative:danske-sorting-application\\interfaces\\inumberorderingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{790294EF-8EF3-4C21-A23A-196965D8A979}|Danske-Sorting-Application\\Danske-Sorting-Application.csproj|c:\\users\\dominykasjukilaitis\\documents\\github\\danske-sorting-application\\danske-sorting-application\\danske-sorting-application\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{790294EF-8EF3-4C21-A23A-196965D8A979}|Danske-Sorting-Application\\Danske-Sorting-Application.csproj|solutionrelative:danske-sorting-application\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{790294EF-8EF3-4C21-A23A-196965D8A979}|Danske-Sorting-Application\\Danske-Sorting-Application.csproj|c:\\users\\dominykasjukilaitis\\documents\\github\\danske-sorting-application\\danske-sorting-application\\danske-sorting-application\\controllers\\numberordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{790294EF-8EF3-4C21-A23A-196965D8A979}|Danske-Sorting-Application\\Danske-Sorting-Application.csproj|solutionrelative:danske-sorting-application\\controllers\\numberordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{790294EF-8EF3-4C21-A23A-196965D8A979}|Danske-Sorting-Application\\Danske-Sorting-Application.csproj|c:\\users\\dominykasjukilaitis\\documents\\github\\danske-sorting-application\\danske-sorting-application\\danske-sorting-application\\models\\filesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{790294EF-8EF3-4C21-A23A-196965D8A979}|Danske-Sorting-Application\\Danske-Sorting-Application.csproj|solutionrelative:danske-sorting-application\\models\\filesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{790294EF-8EF3-4C21-A23A-196965D8A979}|Danske-Sorting-Application\\Danske-Sorting-Application.csproj|c:\\users\\dominykasjukilaitis\\documents\\github\\danske-sorting-application\\danske-sorting-application\\danske-sorting-application\\numberorderings\\getordernumberscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{790294EF-8EF3-4C21-A23A-196965D8A979}|Danske-Sorting-Application\\Danske-Sorting-Application.csproj|solutionrelative:danske-sorting-application\\numberorderings\\getordernumberscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{790294EF-8EF3-4C21-A23A-196965D8A979}|Danske-Sorting-Application\\Danske-Sorting-Application.csproj|c:\\users\\dominykasjukilaitis\\documents\\github\\danske-sorting-application\\danske-sorting-application\\danske-sorting-application\\numberorderings\\ordernumberscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{790294EF-8EF3-4C21-A23A-196965D8A979}|Danske-Sorting-Application\\Danske-Sorting-Application.csproj|solutionrelative:danske-sorting-application\\numberorderings\\ordernumberscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{790294EF-8EF3-4C21-A23A-196965D8A979}|Danske-Sorting-Application\\Danske-Sorting-Application.csproj|c:\\users\\dominykasjukilaitis\\documents\\github\\danske-sorting-application\\danske-sorting-application\\danske-sorting-application\\utils\\sortingalgorithms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{790294EF-8EF3-4C21-A23A-196965D8A979}|Danske-Sorting-Application\\Danske-Sorting-Application.csproj|solutionrelative:danske-sorting-application\\utils\\sortingalgorithms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85ED6702-8187-430E-A8BC-7D22559572E3}|DanskeSorting.Tests\\DanskeSorting.Tests.csproj|c:\\users\\dominykasjukilaitis\\documents\\github\\danske-sorting-application\\danske-sorting-application\\danskesorting.tests\\numberorderings\\commands\\getordernumberscommandtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85ED6702-8187-430E-A8BC-7D22559572E3}|DanskeSorting.Tests\\DanskeSorting.Tests.csproj|solutionrelative:danskesorting.tests\\numberorderings\\commands\\getordernumberscommandtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{790294EF-8EF3-4C21-A23A-196965D8A979}|Danske-Sorting-Application\\Danske-Sorting-Application.csproj|c:\\users\\dominykasjukilaitis\\documents\\github\\danske-sorting-application\\danske-sorting-application\\danske-sorting-application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{790294EF-8EF3-4C21-A23A-196965D8A979}|Danske-Sorting-Application\\Danske-Sorting-Application.csproj|solutionrelative:danske-sorting-application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{790294EF-8EF3-4C21-A23A-196965D8A979}|Danske-Sorting-Application\\Danske-Sorting-Application.csproj|c:\\users\\dominykasjukilaitis\\documents\\github\\danske-sorting-application\\danske-sorting-application\\danske-sorting-application\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{790294EF-8EF3-4C21-A23A-196965D8A979}|Danske-Sorting-Application\\Danske-Sorting-Application.csproj|solutionrelative:danske-sorting-application\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{790294EF-8EF3-4C21-A23A-196965D8A979}|Danske-Sorting-Application\\Danske-Sorting-Application.csproj|c:\\users\\dominykasjukilaitis\\documents\\github\\danske-sorting-application\\danske-sorting-application\\danske-sorting-application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{790294EF-8EF3-4C21-A23A-196965D8A979}|Danske-Sorting-Application\\Danske-Sorting-Application.csproj|solutionrelative:danske-sorting-application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{790294EF-8EF3-4C21-A23A-196965D8A979}|Danske-Sorting-Application\\Danske-Sorting-Application.csproj|c:\\users\\dominykasjukilaitis\\documents\\github\\danske-sorting-application\\danske-sorting-application\\danske-sorting-application\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -111,45 +111,149 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "GetOrderNumbersCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\Danske-Sorting-Application\\NumberOrderings\\GetOrderNumbersCommandHandler.cs",
+              "RelativeDocumentMoniker": "Danske-Sorting-Application\\NumberOrderings\\GetOrderNumbersCommandHandler.cs",
+              "ToolTip": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\Danske-Sorting-Application\\NumberOrderings\\GetOrderNumbersCommandHandler.cs",
+              "RelativeToolTip": "Danske-Sorting-Application\\NumberOrderings\\GetOrderNumbersCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T17:06:29.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderNumbersCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\Danske-Sorting-Application\\NumberOrderings\\OrderNumbersCommandHandler.cs",
+              "RelativeDocumentMoniker": "Danske-Sorting-Application\\NumberOrderings\\OrderNumbersCommandHandler.cs",
+              "ToolTip": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\Danske-Sorting-Application\\NumberOrderings\\OrderNumbersCommandHandler.cs",
+              "RelativeToolTip": "Danske-Sorting-Application\\NumberOrderings\\OrderNumbersCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:59:29.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NumberOrderController.cs",
+              "DocumentMoniker": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\Danske-Sorting-Application\\Controllers\\NumberOrderController.cs",
+              "RelativeDocumentMoniker": "Danske-Sorting-Application\\Controllers\\NumberOrderController.cs",
+              "ToolTip": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\Danske-Sorting-Application\\Controllers\\NumberOrderController.cs",
+              "RelativeToolTip": "Danske-Sorting-Application\\Controllers\\NumberOrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:49:37.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "OrderNumbersCommandTests.cs",
               "DocumentMoniker": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\DanskeSorting.Tests\\NumberOrderings\\Commands\\OrderNumbersCommandTests.cs",
               "RelativeDocumentMoniker": "DanskeSorting.Tests\\NumberOrderings\\Commands\\OrderNumbersCommandTests.cs",
               "ToolTip": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\DanskeSorting.Tests\\NumberOrderings\\Commands\\OrderNumbersCommandTests.cs",
               "RelativeToolTip": "DanskeSorting.Tests\\NumberOrderings\\Commands\\OrderNumbersCommandTests.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAMwCQAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-14T15:16:44.265Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "GetOrderNumbersCommandTests.cs",
+              "DocumentMoniker": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\DanskeSorting.Tests\\NumberOrderings\\Commands\\GetOrderNumbersCommandTests.cs",
+              "RelativeDocumentMoniker": "DanskeSorting.Tests\\NumberOrderings\\Commands\\GetOrderNumbersCommandTests.cs",
+              "ToolTip": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\DanskeSorting.Tests\\NumberOrderings\\Commands\\GetOrderNumbersCommandTests.cs",
+              "RelativeToolTip": "DanskeSorting.Tests\\NumberOrderings\\Commands\\GetOrderNumbersCommandTests.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T15:28:20.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\Danske-Sorting-Application\\Program.cs",
+              "RelativeDocumentMoniker": "Danske-Sorting-Application\\Program.cs",
+              "ToolTip": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\Danske-Sorting-Application\\Program.cs",
+              "RelativeToolTip": "Danske-Sorting-Application\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:43:36.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\Danske-Sorting-Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Danske-Sorting-Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\Danske-Sorting-Application\\DependencyInjection.cs",
+              "RelativeToolTip": "Danske-Sorting-Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T17:41:32.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "NumberOrderingServiceTests.cs",
               "DocumentMoniker": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\DanskeSorting.Tests\\NumberOrderings\\NumberOrderingServiceTests.cs",
               "RelativeDocumentMoniker": "DanskeSorting.Tests\\NumberOrderings\\NumberOrderingServiceTests.cs",
               "ToolTip": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\DanskeSorting.Tests\\NumberOrderings\\NumberOrderingServiceTests.cs",
               "RelativeToolTip": "DanskeSorting.Tests\\NumberOrderings\\NumberOrderingServiceTests.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAIAwwBQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-14T09:45:24.875Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\Danske_Sorting_Application.Benchmarks\\Program.cs",
-              "RelativeDocumentMoniker": "Danske_Sorting_Application.Benchmarks\\Program.cs",
-              "ToolTip": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\Danske_Sorting_Application.Benchmarks\\Program.cs",
-              "RelativeToolTip": "Danske_Sorting_Application.Benchmarks\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "ApiController.cs",
+              "DocumentMoniker": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\Danske-Sorting-Application\\Controllers\\ApiController.cs",
+              "RelativeDocumentMoniker": "Danske-Sorting-Application\\Controllers\\ApiController.cs",
+              "ToolTip": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\Danske-Sorting-Application\\Controllers\\ApiController.cs",
+              "RelativeToolTip": "Danske-Sorting-Application\\Controllers\\ApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T10:51:40.663Z",
+              "WhenOpened": "2025-03-13T16:48:41.096Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\Danske-Sorting-Application\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "Danske-Sorting-Application\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\Danske-Sorting-Application\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "Danske-Sorting-Application\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T09:31:21.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NumberOrderingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\Danske-Sorting-Application\\Repositories\\NumberOrderingRepository.cs",
+              "RelativeDocumentMoniker": "Danske-Sorting-Application\\Repositories\\NumberOrderingRepository.cs",
+              "ToolTip": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\Danske-Sorting-Application\\Repositories\\NumberOrderingRepository.cs",
+              "RelativeToolTip": "Danske-Sorting-Application\\Repositories\\NumberOrderingRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:53:05.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "NumberOrderingService.cs",
               "DocumentMoniker": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\Danske-Sorting-Application\\Services\\NumberOrderingService.cs",
               "RelativeDocumentMoniker": "Danske-Sorting-Application\\Services\\NumberOrderingService.cs",
@@ -157,12 +261,11 @@
               "RelativeToolTip": "Danske-Sorting-Application\\Services\\NumberOrderingService.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAIA9wBUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T16:50:25.799Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T16:50:25.799Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "INumberOrderingRepository.cs",
               "DocumentMoniker": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\Danske-Sorting-Application\\Interfaces\\INumberOrderingRepository.cs",
               "RelativeDocumentMoniker": "Danske-Sorting-Application\\Interfaces\\INumberOrderingRepository.cs",
@@ -170,138 +273,19 @@
               "RelativeToolTip": "Danske-Sorting-Application\\Interfaces\\INumberOrderingRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T16:53:25.929Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "NumberOrderingRepository.cs",
-              "DocumentMoniker": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\Danske-Sorting-Application\\Repositories\\NumberOrderingRepository.cs",
-              "RelativeDocumentMoniker": "Danske-Sorting-Application\\Repositories\\NumberOrderingRepository.cs",
-              "ToolTip": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\Danske-Sorting-Application\\Repositories\\NumberOrderingRepository.cs",
-              "RelativeToolTip": "Danske-Sorting-Application\\Repositories\\NumberOrderingRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T16:53:05.066Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SortingAlgorithmsTests.cs",
-              "DocumentMoniker": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\DanskeSorting.Tests\\Algorithms\\SortingAlgorithmsTests.cs",
-              "RelativeDocumentMoniker": "DanskeSorting.Tests\\Algorithms\\SortingAlgorithmsTests.cs",
-              "ToolTip": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\DanskeSorting.Tests\\Algorithms\\SortingAlgorithmsTests.cs",
-              "RelativeToolTip": "DanskeSorting.Tests\\Algorithms\\SortingAlgorithmsTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T15:12:11.046Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "INumberOrderingService.cs",
-              "DocumentMoniker": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\Danske-Sorting-Application\\Interfaces\\INumberOrderingService.cs",
-              "RelativeDocumentMoniker": "Danske-Sorting-Application\\Interfaces\\INumberOrderingService.cs",
-              "ToolTip": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\Danske-Sorting-Application\\Interfaces\\INumberOrderingService.cs",
-              "RelativeToolTip": "Danske-Sorting-Application\\Interfaces\\INumberOrderingService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T16:51:31.141Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "NotFoundException.cs",
-              "DocumentMoniker": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\Danske-Sorting-Application\\Exceptions\\NotFoundException.cs",
-              "RelativeDocumentMoniker": "Danske-Sorting-Application\\Exceptions\\NotFoundException.cs",
-              "ToolTip": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\Danske-Sorting-Application\\Exceptions\\NotFoundException.cs",
-              "RelativeToolTip": "Danske-Sorting-Application\\Exceptions\\NotFoundException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T09:31:21.163Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "NumberOrderController.cs",
-              "DocumentMoniker": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\Danske-Sorting-Application\\Controllers\\NumberOrderController.cs",
-              "RelativeDocumentMoniker": "Danske-Sorting-Application\\Controllers\\NumberOrderController.cs",
-              "ToolTip": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\Danske-Sorting-Application\\Controllers\\NumberOrderController.cs",
-              "RelativeToolTip": "Danske-Sorting-Application\\Controllers\\NumberOrderController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T16:49:37.823Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "FileSettings.cs",
-              "DocumentMoniker": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\Danske-Sorting-Application\\Models\\FileSettings.cs",
-              "RelativeDocumentMoniker": "Danske-Sorting-Application\\Models\\FileSettings.cs",
-              "ToolTip": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\Danske-Sorting-Application\\Models\\FileSettings.cs",
-              "RelativeToolTip": "Danske-Sorting-Application\\Models\\FileSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T17:49:46.759Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "GetOrderNumbersCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\Danske-Sorting-Application\\NumberOrderings\\GetOrderNumbersCommandHandler.cs",
-              "RelativeDocumentMoniker": "Danske-Sorting-Application\\NumberOrderings\\GetOrderNumbersCommandHandler.cs",
-              "ToolTip": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\Danske-Sorting-Application\\NumberOrderings\\GetOrderNumbersCommandHandler.cs",
-              "RelativeToolTip": "Danske-Sorting-Application\\NumberOrderings\\GetOrderNumbersCommandHandler.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAwwAYAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T17:06:29.117Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "OrderNumbersCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\Danske-Sorting-Application\\NumberOrderings\\OrderNumbersCommandHandler.cs",
-              "RelativeDocumentMoniker": "Danske-Sorting-Application\\NumberOrderings\\OrderNumbersCommandHandler.cs",
-              "ToolTip": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\Danske-Sorting-Application\\NumberOrderings\\OrderNumbersCommandHandler.cs",
-              "RelativeToolTip": "Danske-Sorting-Application\\NumberOrderings\\OrderNumbersCommandHandler.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T16:59:29.539Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T16:53:25.929Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "SortingAlgorithms.cs",
-              "DocumentMoniker": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\Danske-Sorting-Application\\Utils\\SortingAlgorithms.cs",
-              "RelativeDocumentMoniker": "Danske-Sorting-Application\\Utils\\SortingAlgorithms.cs",
-              "ToolTip": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\Danske-Sorting-Application\\Utils\\SortingAlgorithms.cs",
-              "RelativeToolTip": "Danske-Sorting-Application\\Utils\\SortingAlgorithms.cs",
-              "ViewState": "AgIAAGUAAAAAAAAAAAAuwAoAAAA5AAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\Danske_Sorting_Application.Benchmarks\\Program.cs",
+              "RelativeDocumentMoniker": "Danske_Sorting_Application.Benchmarks\\Program.cs",
+              "ToolTip": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\Danske_Sorting_Application.Benchmarks\\Program.cs",
+              "RelativeToolTip": "Danske_Sorting_Application.Benchmarks\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T17:20:56.595Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "GetOrderNumbersCommandTests.cs",
-              "DocumentMoniker": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\DanskeSorting.Tests\\NumberOrderings\\Commands\\GetOrderNumbersCommandTests.cs",
-              "RelativeDocumentMoniker": "DanskeSorting.Tests\\NumberOrderings\\Commands\\GetOrderNumbersCommandTests.cs",
-              "ToolTip": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\DanskeSorting.Tests\\NumberOrderings\\Commands\\GetOrderNumbersCommandTests.cs",
-              "RelativeToolTip": "DanskeSorting.Tests\\NumberOrderings\\Commands\\GetOrderNumbersCommandTests.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAowCwAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T15:28:20.26Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T10:51:40.663Z"
             },
             {
               "$type": "Bookmark",
@@ -309,46 +293,51 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\Danske-Sorting-Application\\Program.cs",
-              "RelativeDocumentMoniker": "Danske-Sorting-Application\\Program.cs",
-              "ToolTip": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\Danske-Sorting-Application\\Program.cs",
-              "RelativeToolTip": "Danske-Sorting-Application\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "SortingAlgorithmsTests.cs",
+              "DocumentMoniker": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\DanskeSorting.Tests\\Algorithms\\SortingAlgorithmsTests.cs",
+              "RelativeDocumentMoniker": "DanskeSorting.Tests\\Algorithms\\SortingAlgorithmsTests.cs",
+              "ToolTip": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\DanskeSorting.Tests\\Algorithms\\SortingAlgorithmsTests.cs",
+              "RelativeToolTip": "DanskeSorting.Tests\\Algorithms\\SortingAlgorithmsTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T16:43:36.697Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T15:12:11.046Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\Danske-Sorting-Application\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "Danske-Sorting-Application\\DependencyInjection.cs",
-              "ToolTip": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\Danske-Sorting-Application\\DependencyInjection.cs",
-              "RelativeToolTip": "Danske-Sorting-Application\\DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "INumberOrderingService.cs",
+              "DocumentMoniker": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\Danske-Sorting-Application\\Interfaces\\INumberOrderingService.cs",
+              "RelativeDocumentMoniker": "Danske-Sorting-Application\\Interfaces\\INumberOrderingService.cs",
+              "ToolTip": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\Danske-Sorting-Application\\Interfaces\\INumberOrderingService.cs",
+              "RelativeToolTip": "Danske-Sorting-Application\\Interfaces\\INumberOrderingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T17:41:32.056Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T16:51:31.141Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "ApiController.cs",
-              "DocumentMoniker": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\Danske-Sorting-Application\\Controllers\\ApiController.cs",
-              "RelativeDocumentMoniker": "Danske-Sorting-Application\\Controllers\\ApiController.cs",
-              "ToolTip": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\Danske-Sorting-Application\\Controllers\\ApiController.cs",
-              "RelativeToolTip": "Danske-Sorting-Application\\Controllers\\ApiController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Title": "FileSettings.cs",
+              "DocumentMoniker": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\Danske-Sorting-Application\\Models\\FileSettings.cs",
+              "RelativeDocumentMoniker": "Danske-Sorting-Application\\Models\\FileSettings.cs",
+              "ToolTip": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\Danske-Sorting-Application\\Models\\FileSettings.cs",
+              "RelativeToolTip": "Danske-Sorting-Application\\Models\\FileSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T16:48:41.096Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T17:49:46.759Z"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SortingAlgorithms.cs",
+              "DocumentMoniker": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\Danske-Sorting-Application\\Utils\\SortingAlgorithms.cs",
+              "RelativeDocumentMoniker": "Danske-Sorting-Application\\Utils\\SortingAlgorithms.cs",
+              "ToolTip": "C:\\Users\\DominykasJukilaitis\\Documents\\GitHub\\Danske-Sorting-Application\\Danske-Sorting-Application\\Danske-Sorting-Application\\Utils\\SortingAlgorithms.cs",
+              "RelativeToolTip": "Danske-Sorting-Application\\Utils\\SortingAlgorithms.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAuwAoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T17:20:56.595Z"
             },
             {
               "$type": "Document",
@@ -360,8 +349,7 @@
               "RelativeToolTip": "Danske-Sorting-Application\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-13T17:28:21.235Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T17:28:21.235Z"
             },
             {
               "$type": "Document",
@@ -373,8 +361,7 @@
               "RelativeToolTip": "Danske-Sorting-Application\\Danske-Sorting-Application.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-03-13T22:43:35.935Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T22:43:35.935Z"
             },
             {
               "$type": "Document",
@@ -386,8 +373,7 @@
               "RelativeToolTip": "Danske-Sorting-Application\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-13T17:28:17.949Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T17:28:17.949Z"
             }
           ]
         }
