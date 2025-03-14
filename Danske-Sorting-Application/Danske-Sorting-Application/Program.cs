@@ -1,6 +1,6 @@
 using System.Reflection;
+using Danske_Sorting_Application;
 using Danske_Sorting_Application.Models;
-using Lakss.Application;
 using Microsoft.OpenApi.Models;
 
 var builder = WebApplication.CreateBuilder(args);

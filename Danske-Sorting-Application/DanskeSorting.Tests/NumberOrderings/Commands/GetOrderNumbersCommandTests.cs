@@ -1,9 +1,9 @@
 ﻿using Danske_Sorting_Application.Exceptions;
 using Danske_Sorting_Application.Interfaces;
-using Lakss.Application.SalesOrders;
+using Danske_Sorting_Application.NumberOrderings;
 using Moq;
 
-namespace Lakss.Application.UnitTests.SalesOrders.Commands
+namespace DanskeSorting.Tests.NumberOrderings.Commands
 {
     public class GetOrderNumbersCommandTests
     {

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Danske_Sorting_Application.Benchmarks")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c892d42441ffaf8acebccc6ee28933be3925e35")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c8ec8e7f5893e842d431bd9fe409f097e86ff8c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Danske_Sorting_Application.Benchmarks")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Danske_Sorting_Application.Benchmarks")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
